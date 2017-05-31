@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+</resources>
